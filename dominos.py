@@ -1,7 +1,6 @@
 #!/usr/bin/env python2.7
 from pizzapi import *
 from os import system
-from time import sleep
 
 def main():
 
